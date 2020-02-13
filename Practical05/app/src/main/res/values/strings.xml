@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical05</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="selectAll">Select ALL</string>
+    <string name="add">ADD</string>
+    <string name="signin">Sign In</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>

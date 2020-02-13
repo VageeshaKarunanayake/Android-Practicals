@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LAB05</string>
+    <string name="num1">Number1</string>
+    <string name="num2">Number2</string>
+    <string name="ok">OK</string>
+    <string name="mul">*</string>
+    <string name="add">+</string>
+    <string name="div">/</string>
+    <string name="sub">-</string>
+    <string name="select">Select a Button</string>
+</resources>

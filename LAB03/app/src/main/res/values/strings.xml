@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB03</string>
+    <string name="custom">Custom Toast</string>
+    <string name="normal">Normal Toast</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB09</string>
+    <string name="save">Save Data</string>
+    <string name="Number">Number of steps walked</string>
+</resources>

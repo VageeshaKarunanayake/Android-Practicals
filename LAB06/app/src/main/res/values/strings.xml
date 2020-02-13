@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LAB06</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="selectall">Select All</string>
+    <string name="add">ADD</string>
+    <string name="signin">Sign In</string>
+    <string name="delete">DELETE</string>
+    <string name="update">Update</string>
+</resources>
